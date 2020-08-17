@@ -36,3 +36,45 @@
     transform: rotate(360deg);
   }
 }
+
+.reactangle {
+  display: inline-block;
+  width: 50px;
+  height: 206px;
+  background: gray;
+  position: fixed;
+  top: 10px;
+  left: 20cm;
+  border-color: black;
+}
+
+.height {
+  width: 50px;
+  height: 5.2px;
+  background: blue;
+  position: fixed;
+  top: 200px;
+  left: 20cm;
+  border-color: black;
+}
+
+.circle {
+  position: relative;
+  background-color: #09f;
+  margin: 20px auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;
+  position: fixed;
+  top: 10px;
+  left: 25cm;
+  
+ }
+
+ .arrow{
+  font-size:60px;
+  position: fixed;
+  top: 10px;
+  left: 27.3cm;
+  rotate: 0deg;
+ }
